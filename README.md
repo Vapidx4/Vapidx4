@@ -4,7 +4,9 @@
 
 Welcome to my profile! I'm passionate about learning new technologies and expanding my skillset. My experience focuses on web development and robotics, with additional projects in mobile apps, games, and embedded systems. I am currently learning machine learning and computer vision to build intelligent, adaptive software.
 
-A little fun fact is that I'm pretty interested in Cellular Automata such as Conway's Game of Life
+A little fun fact is that I'm pretty interested in Cellular Automata such as Conway's Game of Life!
+
+Check out my website: https://leefx.vercel.app/
 
 # 💻 Tech Stack:
 
